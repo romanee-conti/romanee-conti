@@ -1,7 +1,7 @@
-- 👋 Hello, my name is Robert, but my alias is the disarmingly charming provocateur @romanee-conti, master of wine and dance aboard the "Butterfly Sails".
-- 👀 I'm interested in becoming a software developer through metamorphosis.
+- 👋 Hello, my name is Rob and I live in Bristol.
+- 👀 I'm interested in becoming a software developer.
 - 🌱 I’m currently learning HTML, CSS, and javaScript.
-- 💞️ I’m looking to build up my portfolio and land my first junior developer job.
+- 💞️ I’m looking to build up my portfolio and land my first developer job.
 - 📫 How to reach me: robert_phillips17@outlook.com
 
 <!---
