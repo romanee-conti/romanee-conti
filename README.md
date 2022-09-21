@@ -2,7 +2,11 @@
 
 My name is Rob and this is my sandbox account.
 
-Please check out my portfolio account to see what projects I've been working on! @rob-phillips17
+Please check out my portfolio account to see what projects I've been working on! 
+
+@rob-phillips17
+
+https://github.com/rob-phillips17
 
 <!--
 **romanee-conti/romanee-conti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
