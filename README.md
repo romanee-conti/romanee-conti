@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Rob and this is my sandbox account.
+My name is Rob and this is my sandbox account where I perform my experiments 🧪👨‍🔬🔬
 
-Please check out my portfolio account to see what projects I've been working on! 
+Please check out my portfolio account to see my completed projects!
 
 @rob-phillips17
 
