@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rob and this is my sandbox account where I perform my experiments 🧪👨‍🔬🔬
+My name is Rob and this is my sandbox account where I perform experiments 🧪👨‍🔬🔬
 
 Please check out my portfolio account to see my completed projects!
 
